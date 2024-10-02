@@ -50,7 +50,7 @@ Este projeto apresenta o desenvolvimento de uma análise de exportação de vinh
       <div>
         <img src="https://avatars.githubusercontent.com/u/175426437?v=4" width="120px;" alt="Foto no GitHub" class="profile"/><br>
           <b> Davi Alves  </b><br>
-            <a href="https://www.linkedin.com/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+            <a href="http://linkedin.com/in/anderson-silva-208a32127" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
             <a href="https://github.com/Ahsbi" alt="Github"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
       </div>
     </td>
